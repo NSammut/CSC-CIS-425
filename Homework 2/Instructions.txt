@@ -1,0 +1,9 @@
+In this assignment you are asked to read and complete the steps in Chapter 2 of your text to build the "welcome app" . For full credit you should submit:
+
+1) the android manifest
+
+2) the screenshot of the running app
+
+3) activity_main.xml
+
+All together in one pdf file. 
